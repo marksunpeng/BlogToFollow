@@ -1,6 +1,7 @@
 ## Interesting blogs worthy of checking
-* www.wildml.com
-* colah.github.io
-* karpathy.github.io
-* blog.openai.com
-* lilianweng.github.io
+* [wildml](www.wildml.com)
+* [colah](colah.github.io)
+* [Andrej Karpathy](karpathy.github.io)
+* [openai](blog.openai.com)
+* [lilianweng](https://lilianweng.github.io)
+* [setosa](http://setosa.io)
