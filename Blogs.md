@@ -6,3 +6,4 @@
 * [lilianweng](https://lilianweng.github.io)
 * [setosa](http://setosa.io)
 * [Robert Lange](https://roberttlange.github.io/year-archive/)
+* [pete warden](https://petewarden.com/)
