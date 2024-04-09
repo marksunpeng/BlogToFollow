@@ -7,3 +7,4 @@
 * [setosa](http://setosa.io)
 * [Robert Lange](https://roberttlange.github.io/year-archive/)
 * [pete warden](https://petewarden.com/)
+* [The LLVM Project Blog](https://blog.llvm.org/)
