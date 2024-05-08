@@ -7,3 +7,14 @@
 * [Robert Lange](https://roberttlange.github.io/year-archive/)
 * [pete warden](https://petewarden.com/)
 * [The LLVM Project Blog](https://blog.llvm.org/)
+
+## Blogs for Engineers
+* [Netflix tech blog](https://netflixtechblog.com/)
+* [Uber engineering blog](https://www.uber.com/en-GB/blog/engineering/)
+* [Cloudflare blog](https://blog.cloudflare.com/)
+* [Engineering at Meta](https://engineering.fb.com/)
+* [LinkedIn Eng Blog](https://www.linkedin.com/blog/engineering)
+* [Discord Blog](https://discord.com/blog/)
+* [AWS Architecture Blog](https://aws.amazon.com/blogs/architecture/)
+* [Slack engineering blog](https://slack.engineering/)
+* [Strip blog](https://stripe.com/blog)
