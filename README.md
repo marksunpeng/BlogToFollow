@@ -7,6 +7,7 @@
 * [Robert Lange](https://roberttlange.github.io/year-archive/)
 * [pete warden](https://petewarden.com/)
 * [The LLVM Project Blog](https://blog.llvm.org/)
+* [Math ∩ Programming](https://www.jeremykun.com/)
 
 ## Blogs for Engineers
 * [Netflix tech blog](https://netflixtechblog.com/)
